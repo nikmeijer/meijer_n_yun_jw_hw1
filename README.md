@@ -1,14 +1,6 @@
-# Project Name
+# Nik and Jong Woog's Awesome README
 
-TODO: Write a project description
-
-## Installation
-
-TODO: Describe the installation process
-
-## Usage
-
-TODO: Write usage instructions
+My name is Nikolai Meijer. I'm 17 (18 on October 7) and I grew up in London Ontario. I really like design and fashion as well as cars. A few of favourite cars are the 2001 subaru impreza wrx sti, 90's lexus sc400, and the 2006 volvo s60 r.
 
 ## Contributing
 
@@ -18,13 +10,9 @@ TODO: Write usage instructions
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-## History
-
-TODO: Write history
-
 ## Credits
 
-TODO: Write credits
+Nikolai Meijer
 
 ## License
 
