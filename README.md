@@ -16,4 +16,4 @@ Nikolai Meijer
 
 ## License
 
-TODO: Write license
+MIT
